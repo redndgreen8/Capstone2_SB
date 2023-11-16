@@ -30,7 +30,6 @@ Statistical distributions were fitted to model the coverage data, which is essen
 
 - **KL Divergence** measures how one probability distribution diverges from a second, expected probability distribution. Lower values indicate the fitted distribution is closer to the true data distribution.
   - For Poisson: The value was extremely low, indicating a close fit, but this might be misleading if overdispersion is present.
-  - For Negative Binomial: The value (0.01667) suggested a better fit than Poisson when accounting for overdispersion.
 
 ## Regression Analysis for Predicting Copy Number Variations
 
